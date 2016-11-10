@@ -1,1 +1,2 @@
-first git add commond
+first git add commond。
+first status commond。
